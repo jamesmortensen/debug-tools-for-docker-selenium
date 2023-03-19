@@ -1,0 +1,10 @@
+{
+  "require": {
+    "ext-zip": "*"
+  },
+  "require-dev": {
+    "ext-zip": "*",
+    "php-webdriver/webdriver": "~1.8.0",
+    "phpunit/phpunit": "5.2.*"
+  }
+}

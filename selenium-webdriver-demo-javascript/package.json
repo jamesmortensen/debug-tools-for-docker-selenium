@@ -12,6 +12,6 @@
   "dependencies": {
     "argumently": "^0.0.2",
     "axios": "^0.27.2",
-    "selenium-webdriver": "^4.3.1"
+    "selenium-webdriver": "^4.8.1"
   }
 }

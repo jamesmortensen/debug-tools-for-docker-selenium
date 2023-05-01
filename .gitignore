@@ -8,4 +8,12 @@ virtenv
 
 # Java
 target
+.idea
+.project
+.settings
+.classpath
+
+# Other
+.DS_Store
+.vscode
 
